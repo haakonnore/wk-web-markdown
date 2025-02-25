@@ -1,7 +1,6 @@
 # Parkering i Wesselkvartalet
 
-[https://www.google.com/maps/place/ONEPARK+-+Wessel+P-hus+-+Asker+Sentrum/@59.8338145,10.4322344,251m/data=!3m1!1e3!4m14!1m7!3m6!1s0x464115f8004693db:0xf3ad53efd7c00a35!2sONEPARK+-+Wessel+P-hus+-+Asker+Sentrum!8m2!3d59.8339532!4d10.4332689!16s%2Fg%2F11tx20djmz!3m5!1s0x464115f8004693db:0xf3ad53efd7c00a35!8m2!3d59.8339532!4d10.4332689!16s%2Fg%2F11tx20djmz?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D](https://www.google.com/maps/place/ONEPARK+-+Wessel+P-hus+-+Asker+Sentrum/@59.8338145,10.4322344,251m/data=!3m1!1e3!4m14!1m7!3m6!1s0x464115f8004693db:0xf3ad53efd7c00a35!2sONEPARK+-+Wessel+P-hus+-+Asker+Sentrum!8m2!3d59.8339532!4d10.4332689!16s%2Fg%2F11tx20djmz!3m5!1s0x464115f8004693db:0xf3ad53efd7c00a35!8m2!3d59.8339532!4d10.4332689!16s%2Fg%2F11tx20djmz?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D)
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d479.6465089418984!2d10.4322344!3d59.8338145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464115f8004693db%3A0xf3ad53efd7c00a35!2sONEPARK+-+Wessel+P-hus+-+Asker+Sentrum!5e0!3m2!1sen!2sno!4v1689235922763!5m2!1sen!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ## Leie av parkeringsplasser
 
 **Ladere i bygget, men ingen ladeplikt på plasser med lader**
